@@ -54,8 +54,8 @@ const stack = {
 
 ### `~/stats`
 
-![](https://github-readme-stats.shion.dev/api?username=moishy-r&bg_color=00000000&color=888888&line=888888&point=888888&area=true&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=moishy-r&bg_color=00000000&color=888888&line=888888&point=888888&area=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=moishy-r&bg_color=00000000&color=888888&line=888888&point=888888&area=true&include_all_commits=true&count_private=false) &emsp;
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=moishy-r&bg_color=00000000&color=888888&line=888888&point=888888&area=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- activity graph -->
 <p align="center">
@@ -64,8 +64,6 @@ const stack = {
     alt="Activity Graph"
   />
 </p>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=moishy-r&bg_color=00000000&color=888888&line=888888&point=888888&area=true&include_all_commits=true&count_private=false&layout=compact)
 
 &nbsp;
 
