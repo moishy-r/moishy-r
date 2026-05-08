@@ -10,11 +10,12 @@ $ whoami
 
 &nbsp;
 
-**backend systems** · **clean architecture** · **TypeScript / Deno / Python**
 
-I build things that work well and don't complain about it.  
-Yeshiva bochur by day, systems architect by night.  
-Speedcuber. Competitive by nature. Allergic to unnecessary complexity.
+Lubavitcher bochur building systems, tools, and side projects. I care about things that actually work and code that stays understandable.
+
+I use AI as a productivity and planning tool, not a substitute for thinking.
+
+Outside of programming, I actually have a life.
 
 &nbsp;
 
@@ -85,7 +86,7 @@ const stack = {
 ### `~/currently`
 
 - deep in **Deno + Fresh** — still convinced it's underrated
-- figuring out what elegant game architecture actually looks like
+- experimenting with **AI Agents** and other tech stacks
 - optimizing things that probably didn't need optimizing
 
 &nbsp;
