@@ -28,10 +28,10 @@ Outside of programming, I actually have a life.
 | project | description | status |
 |---|---|---|
 | [**yeshiva-attendance**](https://github.com/moishy-r/yeshiva-attendance) | attendance & management system for yeshivos — built with Deno + Fresh | 🔨 active |
-| [**rebbe-picture-guessing**](https://github.com/moishy-r/rebbe-picture-guessing) | GeoGuessr but for rebbe pictures. yes, really | 🔒 private |
+| [**rebbe-picture-guessing**](https://github.com/moishy-r/rebbe-picture-guessing) | GeoGuessr but for rebbe pictures. yes, really | 🔨 active |
 | [**yt-downloader**](https://github.com/moishy-r/yt-downloader) | clean desktop YouTube downloader in Python. does one thing, does it well | ✅ done |
-| [**Custom-Select**](https://github.com/moishy-r/Custom-Select) | a custom `<select>` component — built before I knew UI libraries existed | 📦 archived |
-| [**Hang-Man**](https://github.com/moishy-r/Hang-Man) | historical evidence that I once did not know how to program | 📜 ancient |
+| [**custom-select**](https://github.com/moishy-r/custom-select) | a custom `<select>` component — built before I knew UI libraries existed | 📦 archived |
+| [**hang-man**](https://github.com/moishy-r/hang-man) | historical evidence that I once did not know how to program | 📜 ancient |
 
 &nbsp;
 
